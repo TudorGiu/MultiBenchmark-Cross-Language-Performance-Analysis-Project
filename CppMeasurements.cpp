@@ -1,9 +1,13 @@
 #include <iostream>
+#include <chrono>
 
 using namespace std;
 
 int main()
 {
-	cout << "Cpp merge" << endl;
-	return 0;
+    cout << "Hello World" << endl;
+
+
+    cout << "Andrei";
+    return 0;
 }
