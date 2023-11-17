@@ -7,6 +7,6 @@ rem Run Python program
 python PythonMeasurements.py
 
 rem Run Java program
-java JavaMeasurements
+java -Djava.compiler=NONE JavaMeasurements
 
 pause
